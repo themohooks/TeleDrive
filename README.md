@@ -10,7 +10,7 @@ This is the open source project of Google Drive/OneDrive/iCloud/Dropbox alternat
 - We deserve the free cloud storage service! Pricing: [Google Drive](https://one.google.com/about/plans), [OneDrive](https://one.google.com/about/plans), [Dropbox](https://www.dropbox.com/individual/plans-comparison), [iCloud](https://support.apple.com/en-us/HT201238)
 
 
-## Getting Started
+## Getting Starte
 
 Read here for full instructions: [teledriveapp.com](https://teledriveapp.com)
 
